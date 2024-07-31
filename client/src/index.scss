@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+html {
+    min-height: 100vh;
+    // background-color: rgb(0, 46, 48); //#002E30
+    background-image: linear-gradient(to bottom, #002e30, #012a2c, #012628, #022325, #021f21, #031c20, #04181e, #05141b, #0a0f17, #0c0910, #080407, #000000);
+    font-family: "Chelsea Market", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
